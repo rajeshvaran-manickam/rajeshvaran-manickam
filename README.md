@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rajeshvaran Manickam!  
+## Hi, I'm Rajeshvaran Manickam!  
 🚀 **SAP MDK & SAP Build Apps Developer | Mobile-First Innovator**  
 
 💡 Passionate about creating **scalable, offline-enabled, and user-friendly** mobile solutions using **SAP Mobile Development Kit (MDK) and SAP Build Apps**.  
@@ -16,11 +16,7 @@
 ✔ Enhance SAP workflows with **custom logic, plugins, and automation**  
 
 ## 📚 Always Learning  
-🚀 Exploring the future of **mobile, cloud, and AI-driven SAP applications**  
-
-## 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeshvaran-manickam-459332175/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rajeshvaran.manickam@accenture.com)  
+🚀 Exploring the future of **mobile, cloud, and AI-driven SAP applications**   
 
 <!---
 rajeshvaran-manickam/rajeshvaran-manickam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
